@@ -50,3 +50,9 @@ pip install faster-whisper            # плюс yt-dlp и ffmpeg
 ## Оговорки
 - Расшифровка машинная (Whisper large-v3) с ручной вычиткой. Сомнительные места помечены в тексте и вынесены в таблицу в `transcript.md`.
 - Анализ, план и упрощённое объяснение отражают интерпретацию автора репозитория, а не позицию спикера. Цитаты взяты только из расшифровки.
+
+## Презентация
+
+[`presentation/ai-security-fidelity.pptx`](presentation/ai-security-fidelity.pptx): 12 слайдов, PowerPoint. Превью всех слайдов: [`presentation/preview.jpg`](presentation/preview.jpg).
+
+![Превью презентации](presentation/preview.jpg)
